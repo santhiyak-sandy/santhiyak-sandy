@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**santhiyak-sandy/santhiyak-sandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Santhiya! 👋
 
-Here are some ideas to get you started:
+### Electronics & Communication Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an ECE undergraduate at SSN College of Engineering, interested in exploring the intersection of electronics, hardware, and software.
+
+I enjoy learning through hands-on projects, experimenting with circuits, and understanding how technology works.
+
+## 🔬 Areas of Interest
+
+- Embedded Systems
+- Digital System Design
+- Electronics and Circuit Design
+- Hardware Development
+- Research and Innovation
+
+## 🛠️ Technologies & Tools
+
+**Programming:** C++, Python, MATLAB
+
+**Hardware & Design:** Verilog, Vivado, PSpice
+
+**Platforms:** ESP32, Arduino
+
+**Web Development:** HTML, CSS
+
+## 🚀 Projects
+
+- Line Follower Robot
+- SkillBridge – Smart India Hackathon
+- Smart Room Energy Saver – Verilog
+- LM358-Based LDR Alarm Circuit
+
+## 📚 Currently Learning
+
+- Data Structures and Algorithms
+- Digital Design
+- Embedded Systems
+- Hardware Development
+
+
